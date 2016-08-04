@@ -1,0 +1,27 @@
+_repo: 1811-Dictionary-of-the-Vulgar-Tongue_5402
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grose, Francis
+    deathdate: 1791
+    gutenberg_agent_id: '1784'
+    url: http://www.gutenberg.org/2009/agents/1784
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Grose
+description: Reprint of the author's Lexicon balatronicum; a dictionary of buckish
+  slang, university wit, and pickpocket eloquence (and now considerably altered and
+  enlarged, with the modern changes and improvements, by a member of the whip club.)
+gutenberg_bookshelf: Reference
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5402'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Slang -- Dictionaries'
+- GITenberg
+title: 1811 Dictionary of the Vulgar Tongue
+url: http://www.gutenberg.org/ebooks/5402
